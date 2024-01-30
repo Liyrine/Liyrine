@@ -2,7 +2,7 @@
 
  - I have been coded in Python for ~2 years
  - I have a Master's of Science in Data Science
- - I love storytelling with data and let it empower you.
+ - I love storytelling with data and letting it empower you.
 
 <!--
 **Liyrine/Liyrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
